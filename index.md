@@ -9,3 +9,6 @@
 ```
 print("Hello, World!")
 ```
+
+- [x] Make a project
+- [ ] Finish CS50P
