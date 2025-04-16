@@ -4,3 +4,8 @@
 
 
 ![gif of spinning cat](https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif)
+
+
+```
+print("Hello, World!")
+```
